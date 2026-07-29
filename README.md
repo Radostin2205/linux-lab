@@ -1,7 +1,7 @@
 # Linux Lab Project
 
 ## Overview
-A Linux system administration and Bash scripting practise project created to improve skills in Linux commands, system monitoring, automation, and Git version control.
+A Linux system administration and Bash scripting practice project created to improve skills in Linux commands, system monitoring, automation, and Git version control.
 
 ## Technologies 
 - Debian Linux
@@ -22,7 +22,7 @@ A Linux system administration and Bash scripting practise project created to imp
 - Lists system users
 - Shows open ports
 - Displays recent login activity
-- Cheks file permissions
+- Checks file permissions
 
 ### Backup Tool
 'backup.sh'
