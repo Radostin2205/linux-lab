@@ -52,5 +52,10 @@ Clone the repository:
 git clone https://github.com/Radostin2205/linux-lab.git
 '''
 
-## Author
-[Radostin Dimitrov](https:github.com/Radostin2205)
+## Project Screenshots
+
+### Network Configuration
+![Network Configuration](screenshots/network.png)
+
+### Virtual Machine Setup
+![Virtual Machine Setup](screenshots/vm.png)
