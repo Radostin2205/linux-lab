@@ -50,6 +50,7 @@ Clone the repository:
 
 '''bash
 git clone https://github.com/Radostin2205/linux-lab.git
+'''
 
 ## Author
 [Radostin Dimitrov](https:github.com/Radostin2205)
