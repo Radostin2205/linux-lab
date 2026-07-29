@@ -48,9 +48,9 @@ A Linux system administration and Bash scripting practice project created to imp
 
 Clone the repository:
 
-'''bash
+```bash
 git clone https://github.com/Radostin2205/linux-lab.git
-'''
+```
 
 ## Scripts
 
