@@ -52,7 +52,14 @@ Clone the repository:
 git clone https://github.com/Radostin2205/linux-lab.git
 '''
 
+## Scripts
 
+- `system_info.sh` - Displays system information
+- `network_info.sh` - Shows network configuration
+- `disk_usage.sh` - Checks disk usage
+- `logs_check.sh` - Analyzes system logs
+- `security_check.sh` - Performs basic security checks
+- `backup.sh` - Creates backups
 
 ## Project Screenshots
 
