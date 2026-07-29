@@ -52,10 +52,18 @@ Clone the repository:
 git clone https://github.com/Radostin2205/linux-lab.git
 '''
 
+
+
 ## Project Screenshots
 
-### Network Configuration
-![Network Configuration](screenshots/network.png)
+### Project Overview
+![Project Overview](screenshots/project-overview.png)
 
-### Virtual Machine Setup
-![Virtual Machine Setup](screenshots/vm.png)
+### Linux Security
+![Linux Security](screenshots/linux-security.png)
+
+### SSH Service
+![SSH Service](screenshots/ssh-service.png)
+
+### File Permissions
+![File Permissions](screenshots/file-permissions.png)
