@@ -11,37 +11,37 @@ A Linux system administration and Bash scripting practice project created to imp
 ## Features
 
 ### System Information
-'system_info.sh'
+`system_info.sh`
 - Displays hostname
 - Shows kernel version
 - Provides CPU and memory information
 - Shows disk usage
 
 ### Security Check
-'security_check.sh'
+`security_check.sh`
 - Lists system users
 - Shows open ports
 - Displays recent login activity
 - Checks file permissions
 
 ### Backup Tool
-'backup.sh'
+`backup.sh`
 - Creates a backup directory
 - Copies important project files
 
 ### Network Information
-'network_info.sh'
+`network_info.sh`
 - Shows IP addresses
 - Displays network interfaces
 - Shows routing information
 
 ### Disk Monitoring
-'disk_usage.sh'
+`disk_usage.sh`
 - Displays disk space usage
 - Shows directory sizes
 
 ### Log Monitoring 
-'logs_check.sh'
+`logs_check.sh`
 - Displays recent system logs
 
 ## Installation
